@@ -7,3 +7,5 @@ Toiminto perustuu tietokantaan tallennettuihin lauseisiin, joita skripti vertail
 
 Käytetyt kielet:
 Html, PHP, SCSS, JS, JQuery, Ajax, MySQL
+
+![image](https://user-images.githubusercontent.com/48050551/162947793-e562c3fd-aef4-464c-9265-3875b1664556.png)
